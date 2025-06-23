@@ -80,4 +80,8 @@ Run the services using Docker Compose:
 ### Licence
 This repository is licensed under the MIT License. See LICENSE for details.
 
+---
+
+### Todo
+- use local S3 service (i.e. MINIO) instead of local folder for artifact store
 
