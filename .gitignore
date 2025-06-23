@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+
+# Ignore Docker-related data
+mysql-data/
+mlruns/
+
+# Ignore editor/IDE
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
