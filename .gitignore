@@ -3,6 +3,9 @@
 
 # Ignore Docker-related data
 mysql-data/
+minio-data/
+minio-client/
+s3-data/
 mlruns/
 
 # Ignore editor/IDE
